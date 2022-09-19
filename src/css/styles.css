@@ -18,3 +18,22 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+.article-wrapper {
+  display: flex;
+  align-items: baseline;
+  font-weight: bold;
+  
+  
+}
+
+.country-info__article {
+  margin-right: 15px;
+  font-size: 17px;
+  color: #272727;
+}
+
+.country-info__span {
+  font-size: 21px; 
+  color: blueviolet;
+}
